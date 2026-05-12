@@ -1,0 +1,15 @@
+{
+  "url": "https://kittl.com",
+  "clonedAt": "2026-05-12T15:34:14.313Z",
+  "pages": [
+    {
+      "pathname": "/cookie-policy",
+      "file": "cookie-policy.html"
+    },
+    {
+      "pathname": "/",
+      "file": "index.html"
+    }
+  ],
+  "errors": []
+}

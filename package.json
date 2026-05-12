@@ -1,0 +1,15 @@
+{
+  "name": "kittl-com",
+  "version": "1.0.0",
+  "description": "Static site for kittl.com",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve -l 4242 .",
+    "serve": "npx serve -l 4242 .",
+    "deploy:netlify": "npx netlify deploy --prod --dir .",
+    "deploy:vercel": "npx vercel --prod"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
